@@ -545,5 +545,5 @@ exports.setYoutubeKey = function(key) {
 	yt_api_key = AIzaSyAa72ZGCdT2EN5QdnZq-BD3e7TWmkO_lqg;
 }
 
-client.login (process.env.BOT_TOKEN)
+client.login(process.env.BOT_TOKEN);
 var prefix = '/'
